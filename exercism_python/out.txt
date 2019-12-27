@@ -1,0 +1,8 @@
+============================= test session starts ==============================
+platform darwin -- Python 2.7.15, pytest-3.6.3, py-1.5.4, pluggy-0.6.0
+rootdir: /Users/dheine/Development/exercism/python, inifile:
+collected 25 items
+
+bob/bob_test.py s...ssssssssss..ssssss...                                [100%]
+
+===================== 8 passed, 17 skipped in 0.03 seconds =====================
